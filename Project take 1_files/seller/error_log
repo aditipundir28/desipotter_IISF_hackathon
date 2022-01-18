@@ -1,0 +1,8 @@
+[08-Dec-2020 17:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/project/public_html/seller/products.php:149
+Stack trace:
+#0 {main}
+  thrown in /home/project/public_html/seller/products.php on line 149
+[10-Dec-2020 09:52:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/project/public_html/seller/index.php on line 332
+[10-Dec-2020 10:14:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/project/public_html/seller/index.php on line 333
+[10-Dec-2020 10:53:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/project/public_html/seller/index.php on line 367
+[10-Dec-2020 10:58:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/project/public_html/seller/index.php on line 367

@@ -1,0 +1,22 @@
+[08-Dec-2020 18:53:38 UTC] PHP Warning:  include(../inertiabionisha.php): failed to open stream: No such file or directory in /home/project/public_html/admin/ajaxData.php on line 3
+[08-Dec-2020 18:53:38 UTC] PHP Warning:  include(): Failed opening '../inertiabionisha.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/project/public_html/admin/ajaxData.php on line 3
+[08-Dec-2020 18:53:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/project/public_html/admin/ajaxData.php on line 7
+[08-Dec-2020 18:53:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/project/public_html/admin/ajaxData.php on line 8
+[08-Dec-2020 18:53:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/project/public_html/admin/ajaxData.php on line 9
+[08-Dec-2020 18:54:12 UTC] PHP Warning:  include(../inertiabionisha.php): failed to open stream: No such file or directory in /home/project/public_html/admin/ajaxData.php on line 3
+[08-Dec-2020 18:54:12 UTC] PHP Warning:  include(): Failed opening '../inertiabionisha.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/project/public_html/admin/ajaxData.php on line 3
+[08-Dec-2020 18:54:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/project/public_html/admin/ajaxData.php on line 7
+[08-Dec-2020 18:54:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/project/public_html/admin/ajaxData.php on line 8
+[08-Dec-2020 18:54:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/project/public_html/admin/ajaxData.php on line 9
+[09-Dec-2020 03:57:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202
+[09-Dec-2020 03:57:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 203
+[09-Dec-2020 03:58:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 201
+[09-Dec-2020 03:58:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202
+[09-Dec-2020 03:59:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202
+[09-Dec-2020 03:59:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 203
+[09-Dec-2020 04:00:15 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 201
+[09-Dec-2020 04:00:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202
+[09-Dec-2020 04:00:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 201
+[09-Dec-2020 04:00:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202
+[09-Dec-2020 04:01:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 201
+[09-Dec-2020 04:01:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/admin/products.php on line 202

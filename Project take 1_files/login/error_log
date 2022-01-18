@@ -1,0 +1,13 @@
+[09-Dec-2020 06:55:09 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:55:11 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:55:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:55:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:55:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:55:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:56:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:57:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:57:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 06:57:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[09-Dec-2020 07:18:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/project/public_html/login/login.php on line 5
+[10-Dec-2020 07:58:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/login/login.php on line 21
+[10-Dec-2020 07:58:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/project/public_html/login/login.php on line 22
